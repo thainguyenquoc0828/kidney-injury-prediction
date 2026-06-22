@@ -169,7 +169,4 @@ Model interpretation is performed using:
 
 * **SHAP values**
 * **Odds Ratios (OR)**
-
-These methods are used to assess the contribution and direction of effect of each feature in the final prediction model.
-
 This project aims to support early identification of AMI patients at high risk of developing AKI during ICU hospitalization. By using data available within the first 12 hours of ICU admission, the model may help clinicians perform early risk stratification and guide timely preventive interventions.
