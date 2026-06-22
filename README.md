@@ -1,10 +1,12 @@
-# Project: Predicting Acute Kidney Injury (AKI) in Patients with Acute Myocardial Infarction (AMI)
+Predicting Acute Kidney Injury (AKI) in Patients with Acute Myocardial Infarction (AMI)
 
 ## 📌 Overview
 
 The main objective of this project is to develop a predictive model for estimating the risk of **Acute Kidney Injury (AKI)** within **7 days** among patients diagnosed with **Acute Myocardial Infarction (AMI)**.
 
-The prediction model uses only clinical and laboratory data collected during the **first 12 hours after ICU admission**. The model is trained and internally validated using the **MIMIC-IV** database, with external validation performed on an independent dataset such as **eICU**.
+The prediction model uses only clinical and laboratory data collected during the **first 12 hours after ICU admission**. The model is trained and internally validated using the **MIMIC-IV** database, with external validation performed on an independent dataset called **eICU**.
+
+![AKI Prediction Pipeline](images/pipeline.png)
 
 ---
 
