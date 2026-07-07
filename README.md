@@ -143,7 +143,7 @@ Feature selection is performed in three steps:
 
 The core predictive model is **Logistic Regression**.
 
-Hyperparameter tuning is performed using `Hyperopt`, with the search space including:
+Hyperparameter tuning is performed using `GridSearch`, with the search space including:
 
 * `C`
 * `penalty`
