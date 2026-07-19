@@ -6,7 +6,8 @@ The main objective of this project is to develop a predictive model for estimati
 
 The prediction model uses only clinical and laboratory data collected during the **first 12 hours after ICU admission**. The model is trained and internally validated using the **MIMIC-IV** database, with external validation performed on an independent dataset called **eICU**.
  
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kidney-injury-prediction.streamlit.app/)
+🚀 **Live Web Application:** [kidney-injury-prediction.streamlit.app](https://kidney-injury-prediction.streamlit.app/)
 
 ---
 
